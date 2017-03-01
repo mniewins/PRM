@@ -1,4 +1,4 @@
-# PRM, laboratorium 0, semestr zimowy 2013/2014
+# PRM, laboratorium 0
 
 
 *Zakres materiału*: Konta, konsola, środowisko uruchomieniowe. Pierwszy
@@ -103,8 +103,11 @@ konsoli *man* *polecenie*.
 
 *Obsługa kompilatora GCC z lini poleceń:*
 
- - gcc *plik.c* -o *program*  kompilacja pliku źródłowego *plik.c* do pliku wykonywalnego *program*
- - gcc *plik.c* -o *program* -Wall wyświetlanie wszystkich ostrzeżeń podczas kompilacji
- - gcc *plik.c* -o *program* -std=C99 kompilacja z użyciem standardu C99 języka C (opcja zalecana)
- - gcc -c *plik.c* -o *plik.o*  kompilacja pliku źródłowego *plik.c* do pliku pośredniego *plik.o*
- - gcc *plik1.o* *plik2.o* -o *program* konsolidacja plików pośrednich *plik1.o* *plik2.o* do pliku wykonywalnego *program*|
+ - `gcc plik.c -o program`  kompilacja pliku źródłowego *plik.c* do pliku wykonywalnego *program*
+ - `gcc plik.c -o program -Wall` wyświetlanie wszystkich ostrzeżeń podczas kompilacji
+ - `gcc plik.c -o program -std=C99` kompilacja z użyciem standardu C99 języka C (opcja zalecana)
+ - `gcc -c plik.c -o plik.o`  kompilacja pliku źródłowego *plik.c* do pliku pośredniego *plik.o*
+ - `gcc plik1.o plik2.o -o program` konsolidacja plików pośrednich *plik1.o* *plik2.o* do pliku wykonywalnego *program*
+ - `gcc -g` dołączenie informacji niezbędnych dla procesu debugowania
+ - `gcc -lm` dołączenie biblioteki matematycznej
+
