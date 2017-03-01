@@ -4,23 +4,17 @@
 *Regulamin*:
 
 1. 10 ćwiczeń, z czego 7 punktowanych w skali __0-5 pkt__:
-	* na początku ćwiczeń punktowanych krótka wejściówka (10 min.) za __1.5 pkt__,
-	* pierwsze ćwiczenie punktowane __8 listopada 2013__,
-	* dodatkowy termin laboratoryjny (w razie uzasadnionej nieobecności na którymś z punktowanych ćwiczeń) __17 stycznia 2014__.
-2. Projekt za __15 pkt__:
-	* termin rozdania tematów __25 października 2013__,
-	* termin oddania projektów __10 stycznia 2014__.
+	* na początku ćwiczeń punktowanych krótka wejściówka (10 min.) za __1.0 pkt__
+2. Projekt za __15 pkt__.
 3. Aby oddać projekt, należy:
   	* zademonstrować jego działanie w laboratorium albo na własnym komputerze (w systemie Linux),
   	* dostarczyć *wydrukowaną* dokumentację techniczną projektu ([przykładowa dokumentacja](http://staff.elka.pw.edu.pl/~jarabas/dyd/prm/doctech.pdf)),
   	* przesłać kod źródłowy projektu *w jednym skompresowanym pliku*.
-4. Konsultacje piatek 14:15-16 p.251
-
 
 --------------------------------------------
 
 [Laboratorium 0](?lab0) | Konta, konsola, środowisko uruchomieniowe. Pierwszy program, standardowe wyjście i wejście.
-
+<!---
 [Laboratorium 1](?lab1) | Typy proste, "typ" łańcuchowy. Stałe i zmienne. Podstawowe operacje arytmetyczne. | [Przykładowe rozwiązania](?lab1rozwiazania)
 
 [Laboratorium 2](?lab2) | Pętle `for`, `while`, `do-while`. Instrukcje sterujące `if-else`, `switch`, `break`, `continue`. | [Przykładowe rozwiązania](?lab2rozwiazania)
@@ -49,3 +43,4 @@
 [Materiały pomocnicze](?materialy)
 
 
+--->
