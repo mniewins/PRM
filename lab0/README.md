@@ -28,12 +28,16 @@ w środowisku Code::Blocks.
 
 4 Dodać na początku funkcji `main` (przed instrukcją `printf`) następując deklarację:
 
-
-bc(((. int dzien=10;
+```
+int dzien=10;
+```
 
 5 Dodać przed instrukcją `return` następującą instrukcję:
 
-bc(((. dzien++; printf("Dzisiaj jest %d\n", dzien);
+```
+dzien++;
+printf("Dzisiaj jest %d\n", dzien);
+```
 
 6 Skompilować program i zaobserwować jego działanie.
 
