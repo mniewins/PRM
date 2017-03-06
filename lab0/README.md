@@ -47,7 +47,7 @@ printf("Dzisiaj jest %d\n", dzien);
 8 Uruchomić ponownie program bez jego kompilacji (F8 albo polecenie *Debug-\>Start*). Zaobserwoać zmianę pasków narzędziowych.
 
 
-9 Dodać podgląd wartości zmiennej `dzien` (kliknąć prawym klawiszem na definicje zmiennej i wybrać *Watch `dzien`\_, następnie wybrać polecenie menu *Debug-\>Debugging windows-\>Watches\_)
+9 Dodać podgląd wartości zmiennej `dzien` (kliknąć prawym klawiszem na definicje zmiennej i wybrać *Watch `dzien`*. Jeżeli nie pojawi się okienko *Watches*, utworzyć je poleceniem menu *Debug-\>Debugging windows-\>Watches*)
 
 
 10 Przechodząc powoli przez kolejne linie programu (F7), obserwować:
@@ -64,11 +64,11 @@ printf("Dzisiaj jest %d\n", dzien);
 
 3 Przejść do katalogu, w którym został stworzony projekt (polecenie `cd prm0`).
 
-4 Ponownie wypisać zawartość katalogu (polecenie `ls -l`, opcja `-l` powoduje wypisanie dodatkowych informacji o plikach). Oprócz pliku `main.c` zawierający kod źródłowy programu, powinien tam się znajdować plik `hello`, oraz pliki stworzone przez środowisko *Code::Blocks* (`hello.cbp` i `hello.depend`).
-
+4 Ponownie wypisać zawartość katalogu (polecenie `ls -l`, opcja `-l` powoduje wypisanie dodatkowych informacji o plikach). Oprócz pliku `main.c` zawierającego kod źródłowy programu, powinien tam się znajdować plik `hello`, oraz pliki stworzone przez środowisko *Code::Blocks* (`hello.cbp` i `hello.depend`).
+ls 
 5 Obejrzeć zawartość pliku `main.c` (polecenie `cat main.c`).
 
-6 Usunąć plik `hello` (polecenie `rm hello`).
+6 Usunąć plik wykonywalny `hello` (polecenie `rm hello`).
 
 7 Skompilować program (polecenie `gcc main.c -o hello`).
 
