@@ -1,10 +1,12 @@
 # Laboratorium PRM, semestr letni 2017
 
 [Laboratorium 0](lab0) | Konta, konsola, środowisko uruchomieniowe. Pierwszy program, standardowe wyjście i wejście.
+
+[Laboratorium 2](lab2) | Pętle `for`, `while`, `do-while`. Instrukcje sterujące `if-else`, `switch`, `break`, `continue`.
 <!---
 [Laboratorium 1](?lab1) | Typy proste, "typ" łańcuchowy. Stałe i zmienne. Podstawowe operacje arytmetyczne. | [Przykładowe rozwiązania](?lab1rozwiazania)
 
-[Laboratorium 2](?lab2) | Pętle `for`, `while`, `do-while`. Instrukcje sterujące `if-else`, `switch`, `break`, `continue`. | [Przykładowe rozwiązania](?lab2rozwiazania)
+
 
 [Laboratorium 3](?lab3) | Funkcje, zmienne globalne i lokalne. Wskaźniki, przekazywanie argumentów do funkcji przez wartość i wskazanie. (__5 pkt__) | [Przykładowe rozwiązanie](lab3/zad2r.c)
 
