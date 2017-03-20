@@ -8,7 +8,7 @@
 
 ## __Zadanie 1.__ Typy zmiennych, stałe. Deklaracje, inicjalizacje. Operacje na zmiennych, ciągi znakowe i standardowe wyjście.
 
-1. W katalogu `lab1` utworzyć nowy projekt `zad1` i do głównego pliku projektu skopiować zawartość pliku źródłowego [zad1.c](lab1/zad1.c)
+1. W katalogu `lab1` utworzyć nowy projekt `zad1` i do głównego pliku projektu skopiować zawartość pliku źródłowego [zad1.c](zad1.c)
 2. Zapoznać się z własnościami typów liczbowych oraz przeanalizować sposób ich wyświetlania przy użyciu funkcji `printf`. (*linie 10-25*)
 3. Usunąć kometarz i sprawdzić co stanie się, jeżeli spróbujemy zmienić wartość stałej. (*linia 31*)
 4. Zaobserwować co dzieje się jeżeli przekroczymy maksymalną wartość zmiennej (*linie 34-36*)
@@ -19,7 +19,7 @@
 
 ## __Zadanie 2.__ Standardowe wejście, funkcja `scanf`.
 
-1. W katalogu `lab1` utworzyć nowy projekt `zad2` i do głównego pliku projektu skopiować zawartość pliku źródłowego [zad2.c](lab1/zad2.c)
+1. W katalogu `lab1` utworzyć nowy projekt `zad2` i do głównego pliku projektu skopiować zawartość pliku źródłowego [zad2.c](zad2.c)
 2. Uruchomić program i zapoznać się z jego działaniem.
 3. Zmodyfikować program tak, aby:
 	* nie pozwalał na wprowadzenie większej liczby znaków niż zadeklarowany rozmiar ciągu znaków (odpowiednia modyfikacja specyfikatora formatowania `%s`)
