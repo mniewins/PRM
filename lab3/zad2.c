@@ -26,8 +26,7 @@ int pierwiastki(double a, double b, double c, double *wsk_x1, double *wsk_x2)
 
 int main()
 {
-    double a, b, c, delta, x1, x2;
-    double test_b, test_c;
+    double a, b, c, x1, x2;
     int liczba;
 
     printf("Prosze podac wspolczynniki rownania kwadratowego ax^2+bx+c: ");
