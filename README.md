@@ -5,13 +5,10 @@
 [Laboratorium 1](lab1) | Typy proste, "typ" łańcuchowy. Stałe i zmienne. Podstawowe operacje arytmetyczne. 
 
 [Laboratorium 2](lab2) | Pętle `for`, `while`, `do-while`. Instrukcje sterujące `if-else`, `switch`, `break`, `continue`. (__5 pkt__)
-<!---
-
-
-
 
 [Laboratorium 3](lab3) | Funkcje, zmienne globalne i lokalne. Wskaźniki, przekazywanie argumentów do funkcji przez wartość i wskazanie. (__5 pkt__)
 
+<!---
 [Laboratorium 4](?lab4) | Wskaźniki, tablice, "typ" łańcuchowy. (__5 pkt__) | [Przykładowe rozwiązanie](lab4/zad2r.c)
 
 [Laboratorium 5](?lab5) | Proste algorytmy sortowania (sortowanie bąbelkowe, sortowanie przez wstawianie). (__5 pkt__)
