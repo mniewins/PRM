@@ -8,9 +8,9 @@
 
 [Laboratorium 3](lab3) | Funkcje, zmienne globalne i lokalne. Wskaźniki, przekazywanie argumentów do funkcji przez wartość i wskazanie. (__5 pkt__)
 
-<!---
-[Laboratorium 4](?lab4) | Wskaźniki, tablice, "typ" łańcuchowy. (__5 pkt__) | [Przykładowe rozwiązanie](lab4/zad2r.c)
+[Laboratorium 4](lab4) | Wskaźniki, tablice, "typ" łańcuchowy. (__5 pkt__)
 
+<!---
 [Laboratorium 5](?lab5) | Proste algorytmy sortowania (sortowanie bąbelkowe, sortowanie przez wstawianie). (__5 pkt__)
 
 [Laboratorium 6](?lab6) | Struktury, typ wyliczeniowy, dynamiczna alokacja pamięci. (__5 pkt__)
