@@ -1,0 +1,12 @@
+Zadanie 1. Analiza prostych algorytmów sortowania.
+
+W katalogu prm5 utworzyć nowy projekt zad1 i do głównego pliku projektu skopiować zawartość pliku źródłowego lab5.c
+Zapoznać się z działaniem obydwu algortymów sortowania (funkcje babelki i wstawianie).
+Odpowiedzieć na następujące pytania:
+Ile porównań musi wykonać każdy z algorytmów sortowania dla 5 elementowego ciągu odwróconego (np. 10, 5, 3, 1, 0) i już posortowanego (np. 0, 1, 3, 5, 10)? Wskazówka: wprowadzić globalną zmienną zliczające liczbę wywołań funkcji porownaj.
+Jaka wartość znajdzie się na końcu tablicy tablica po pierwszej iteracji pętli do-while w algorytmie babelki? Jak opierając się na tej obserwacji można przyspieszyć algorytm?
+Dlaczego w warunku pętli while w algorytmie wstawianie najpierw sprawdzany jest warunek na zmienną j, a następnie dopiero jest wywoływana funkcja porownaj?
+Jaka prosta modyfikacja pozwoli zmienić porządek sortowanie obydwy algorytmów z rosnącego na malejący?
+Zadanie 2. Wykorzystanie algorytmów.
+
+Treść zadania zostanie podana przez prowadzącego w trakcie zajęć.
