@@ -10,8 +10,10 @@
 
 [Laboratorium 4](lab4) | Wskaźniki, tablice, "typ" łańcuchowy. (__5 pkt__)
 
+[Laboratorium 5](lab5) | Proste algorytmy sortowania (sortowanie bąbelkowe, sortowanie przez wstawianie). (__5 pkt__)
+
 <!---
-[Laboratorium 5](?lab5) | Proste algorytmy sortowania (sortowanie bąbelkowe, sortowanie przez wstawianie). (__5 pkt__)
+
 
 [Laboratorium 6](?lab6) | Struktury, typ wyliczeniowy, dynamiczna alokacja pamięci. (__5 pkt__)
 
